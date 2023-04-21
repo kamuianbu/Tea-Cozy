@@ -97,7 +97,7 @@ body {
 .toptext {
   font-weight: bold;
   font-size: 41px;
-  opacity: 0.5;
+  opacity: 1;
 }
 footer {
   display: block;
